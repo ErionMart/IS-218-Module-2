@@ -24,7 +24,7 @@ body {
 .container {
     max-width: 1200px;
     margin: auto;
-    padding: 3px; /* Further reduced padding */
+    padding: 1px; /* Further reduced padding */
     background-color: #b30000; /* Add a semi-transparent background to the content */
     position: relative; /* Position the content relative to the body */
     z-index: 1; /* Ensure content is above the background image */
