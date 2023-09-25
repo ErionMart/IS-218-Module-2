@@ -52,9 +52,14 @@ section {
 }
 
 /* Style headings */
-h1, h2, h3 {
+h2, h3 {
     font-family: 'URW Chancery L', cursive; /* Replace 'CursiveFont' with your chosen creative font */
     color: #000; /* Replace with your unique color code */
+    font-size: 19px; /* Further reduced font size */
+}
+h1 {
+    font-family: 'Calibri', sans-serif; /* Replace 'CursiveFont' with your chosen creative font */
+    color: #FFDEAD; /* Replace with your unique color code */
     font-size: 19px; /* Further reduced font size */
 }
 
