@@ -12,7 +12,7 @@ body {
     font-family: 'Calibri', sans-serif;
     margin: 0; /* Remove default margin to fill the entire viewport */
     padding: 0;
-    color: #0000; /* Set text color for the entire resume */
+    color: #000; /* Set text color for the entire resume */
     position: relative; /* Position the content relative to the body */
     overflow: hidden;
     display: flex;
