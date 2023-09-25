@@ -22,7 +22,7 @@ body {
 
 /* Style the content within the resume */
 .container {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: auto;
     padding: 3px; /* Further reduced padding */
     background-color: #b30000; /* Add a semi-transparent background to the content */
@@ -100,7 +100,7 @@ body, p, ul, li, address {
 }
 
 #objective h2{
-    font-family: ''URW Chancery L', cursive; /* Replace 'CursiveFont' with your chosen creative font */
+    font-family: 'URW Chancery L', cursive; /* Replace 'CursiveFont' with your chosen creative font */
     color: #000; /* Replace with your unique color code */
     font-size: 19px; 
 }
